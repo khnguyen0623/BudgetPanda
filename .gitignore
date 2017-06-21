@@ -1,0 +1,11 @@
+# JAVA #
+
+# Compiled source #
+###################
+*.class
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
