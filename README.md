@@ -12,4 +12,6 @@ Some core functionalities that this app will have:
 5. Automatic monthly budgetting
 6. Automatic recurring payments
 
+My goal for this app is to not have a transactional sync up with the financial institutions, but rather let the user be his/her own keeper of transaction/budget. I firmly believe the "fire and forget" thinking does not work when it comes to managing finance. I've learned from using YNAB that having to input every transaction make me think before I buy and I wish to carry this mentality forward onto this app.
+
 See more regarding design in the Design directory. 
